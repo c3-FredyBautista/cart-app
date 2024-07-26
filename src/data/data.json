@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Fiddle Leaf Fig",
+        "type": "Ficus lyrata",
+        "height": "4 feet",
+        "price": 50.00,
+        "stock": 10,
+        "image": "fiddle-leaf-fig.png"
+    },
+    {
+        "id": 2,
+        "name": "Snake Plant",
+        "type": "Sansevieria trifasciata",
+        "height": "2 feet",
+        "price": 25.00,
+        "stock": 15,
+        "image": "snake-plant.png"
+    },
+    {
+        "id": 3,
+        "name": "Peace Lily",
+        "type": "Spathiphyllum",
+        "height": "1.5 feet",
+        "price": 20.00,
+        "stock": 20,
+        "image": "peace-lily.png"
+    }
+]
